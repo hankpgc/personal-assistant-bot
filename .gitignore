@@ -1,0 +1,31 @@
+# 環境變數和金鑰
+.env
+.env.local
+*.key
+secrets/
+
+# n8n credentials（絕對不要 commit）
+credentials.json
+*.credentials.json
+
+# 系統檔
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+package-lock.json
+
+# 日誌
+*.log
+logs/
+
+# 暫存
+tmp/
+temp/
