@@ -178,7 +178,7 @@ Discord Embed → reply via Follow-up API
 - **Reminders**: schedule with auto push notification
 - **Gmail**: summarize unread emails, send emails
 
-Plus 2 automated push workflows: reminder checker (every minute) and Gmail notifier.
+Plus 2 automated push workflows: reminder checker (every minute) and Stock notifier.
 
 ### Technical Decisions
 
