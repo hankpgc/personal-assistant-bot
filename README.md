@@ -8,7 +8,7 @@
 
 ---
 
-## 🇹🇼 繁體中文
+## 繁體中文
 
 ### 專案動機
 
@@ -144,7 +144,7 @@ Discord 強制 Interactions Endpoint 必須驗證 Ed25519 簽名，但 n8n.cloud
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Motivation
 
