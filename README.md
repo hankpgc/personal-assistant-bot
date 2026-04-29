@@ -54,8 +54,8 @@ Router Workflow 分發到 13 個功能
 
 另外有兩個自動推播工作流：
 
-- **Reminder Checker**：每分鐘檢查到期提醒
-- **Gmail Notifier**：新信自動推播到 Discord
+- **Reminder Checker**：每5分鐘檢查到期提醒
+- **Stock Notifier**：股價波動自動推播到 Discord
 
 ### 技術選型決策
 
