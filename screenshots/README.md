@@ -11,6 +11,7 @@
 
 ### 各功能展示（每個一張）
 - `stock.png` - /股價 結果卡片
+- ![stock](./stock.png)
 - `weather.png` - /天氣 結果卡片
 - `distance.png` - /距離 結果卡片
 - `exchange.png` - /匯率 結果卡片（含金額換算）
