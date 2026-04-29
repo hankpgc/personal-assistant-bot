@@ -119,7 +119,7 @@ Discord 強制 Interactions Endpoint 必須驗證 Ed25519 簽名，但 n8n.cloud
 │   ├── 09-reminder.json          # 提醒設定
 │   ├── 10-gmail.json             # 信件摘要 + 寄信
 │   ├── 11-reminder-checker.json  # 提醒檢查器
-│   └── 12-gmail-notifier.json    # Gmail 新信通知
+│   └── 12-stock-notifier.json    # 股價波動通知
 │
 ├── cloudflare-worker/
 │   └── worker.js                 # Discord 簽名驗證
