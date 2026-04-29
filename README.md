@@ -1,6 +1,6 @@
 # Personal Assistant Bot
 
-> 一個基於 Discord + n8n 打造的個人化自動助理，整合 13 個 Slash Command 功能與自動推播工作流，部署在家用筆電上 24/7 運作，完全免費。
+> 一個基於 Discord + n8n 打造的個人化自動助理，整合 13 個 Slash Command 功能與自動推播工作流，部署在家用筆電上 24 小時運作，完全免費。
 >
 > A personal automation assistant built with Discord + n8n, featuring 13 Slash Commands and automated push workflows, self-hosted on a home laptop running 24/7 — completely free.
 
