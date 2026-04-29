@@ -11,16 +11,24 @@
 
 ### 各功能展示（每個一張）
 - `stock.png` - /股價 結果卡片
-- ![stock](./stock.png)
+  ![stock](./stock.png)
 - `weather.png` - /天氣 結果卡片
+  ![weather](./weather.png)
 - `distance.png` - /距離 結果卡片
+  ![distance](./distance.png)
 - `exchange.png` - /匯率 結果卡片（含金額換算）
+  ![exchange](./exchange.png)
 - `news.png` - /新聞 AI 摘要結果
+  ![news](./news.png)
 - `accounting.png` - /記帳 確認卡片
+  ![accounting](./accounting.png)
 - `expense.png` - /支出 統計圖
+  ![expense](./expense.png)
 - `todo-list.png` - /待辦列表（Barcode 版）
+  ![todo-list](./todo-list.png)
 - `todo-text.png` - /待辦列表（純 ID 版）
 - `reminder.png` - /提醒 設定 + 到期推播
+  ![reminder](./reminder.png)
 
 ### 後端展示
 - `n8n-router.png` - n8n Router Workflow 全景
